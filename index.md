@@ -16,8 +16,6 @@ sections:
     type: section_content
     title: News
     content:
-        * news 1
-        * news 2
 seo:
   title: Rodolfo Quispe
   description: Personal site Rodolfo Quispe
