@@ -5,9 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Rodolfo'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |+
+      Code & Rock & Roll
+
   - section_id: about
     type: section_content
     title: About
@@ -19,8 +19,7 @@ sections:
   - section_id: news
     type: section_content
     title: News
-    content: >-
-      List of news
+    content: List of news
 seo:
   title: Rodolfo Quispe
   description: Personal site Rodolfo Quispe
