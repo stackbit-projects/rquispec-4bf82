@@ -22,7 +22,7 @@ sections:
     content: >-
       List of news
 seo:
-  title: Stackbit Fresh Theme
+  title: Rodolfo Quispe
   description: The preview of the Fresh theme
   extra:
     - name: 'og:type'
