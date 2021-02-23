@@ -30,18 +30,6 @@
 
             {% assign has_nav_is_not_empty = site.header.has_nav | is_not_empty %}
             {% if has_nav_is_not_empty %}
-            <ul class="menu">
-              {% for action in site.header.nav_links %}
-                {% assign pageUrl = page.url | trim: '/' %}
-                {% assign actionUrl = action.url | trim: '/' %}
-                <li class="menu-item{% if pageUrl == actionUrl %} current-menu-item{% endif %}{% if action.style == 'button' %} menu-button{% endif %}">
-                  <a href="{{ action.url | relative_url }}"
-                    {% assign new_window_is_not_empty = action.new_window | is_not_empty %}{% if new_window_is_not_empty %} target="_blank"{% endif %}
-                    {% if action.new_window or action.no_follow %} rel="{% assign new_window_is_not_empty = action.new_window | is_not_empty %}{% if new_window_is_not_empty %}noopener {% endif %}{% assign no_follow_is_not_empty = action.no_follow | is_not_empty %}{% if no_follow_is_not_empty %}nofollow{% endif %}"{% endif %}
-                    {% if action.style == 'button' %}class="button"{% endif %}>{{ action.label }}</a>
-                </li>
-              {% endfor %}
-            </ul><!-- .menu -->
             {% endif %}
             {% assign has_social_is_not_empty = site.header.has_social | is_not_empty %}
             {% if has_social_is_not_empty %}
