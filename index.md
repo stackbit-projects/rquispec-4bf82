@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, I''m Rodolfo'
     content: |
-      MLing the world
+      MLing the World
   - section_id: about
     type: section_content
     title: About
