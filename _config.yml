@@ -47,6 +47,11 @@ header:
       style: icon
       icon_class: instagram
       new_window: true
+    - label: Instagram
+      url: 'https://www.instagram.com/rodolfo_quispe'
+      style: icon
+      icon_class: instagram
+      new_window: true
 footer:
   content: >-
     &copy; Stackbit. All rights reserved. This Jamstack site was created with <a
