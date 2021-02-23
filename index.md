@@ -16,7 +16,7 @@ sections:
     type: section_content
     title: News
     content:
-        * asdf
+        * news 1
         * list 2
 seo:
   title: Rodolfo Quispe
