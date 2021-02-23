@@ -31,11 +31,6 @@ header:
       style: link
   has_social: true
   social_links:
-    - label: Twitter
-      url: 'https://twitter.com/'
-      style: icon
-      icon_class: twitter
-      new_window: true
     - label: Instagram
       url: 'https://www.instagram.com/rodolfo_quispe'
       style: icon
