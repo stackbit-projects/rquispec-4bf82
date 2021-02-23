@@ -23,7 +23,7 @@ sections:
       List of news
 seo:
   title: Rodolfo Quispe
-  description: The preview of the Fresh theme
+  description: Personal site Rodolfo Quispe
   extra:
     - name: 'og:type'
       value: website
