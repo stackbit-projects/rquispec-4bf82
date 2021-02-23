@@ -9,7 +9,7 @@ palette: blue
 header:
   title: Rodolfo Quispe
   profile_img: images/avatar.png
-  profile_img_alt: 1.jpg
+  profile_img_alt: images/1.jpg
   background: dark
   has_nav: true
   nav_links:
