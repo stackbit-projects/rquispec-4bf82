@@ -5,9 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Rodolfo'
-    content: |+
-      Code & Rock & Roll
-
+    content: |
+      Machine Learning & Computer Vision & Natural Language Processing & Code
   - section_id: about
     type: section_content
     title: About
