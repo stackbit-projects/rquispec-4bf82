@@ -31,6 +31,11 @@ header:
       style: link
   has_social: true
   social_links:
+    - label: LinkedIn
+      url: 'https://www.linkedin.com/in/rodolfoquispec/'
+      style: icon
+      icon_class: linkedin
+      new_window: true
     - label: Instagram
       url: 'https://www.instagram.com/rodolfo_quispe'
       style: icon
