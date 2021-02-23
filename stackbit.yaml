@@ -553,6 +553,7 @@ models:
           - twitter
           - vimeo
           - youtube
+          - scholar
         default: dev
       - type: boolean
         name: new_window
